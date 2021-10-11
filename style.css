@@ -62,7 +62,7 @@ main {
 
 footer {
   height: 50px;
-  background-color: #aaa;
+  background-color: #aad;
 }
 
 @media screen and (max-width: 768px) {
